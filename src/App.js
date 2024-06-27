@@ -4,7 +4,7 @@ import Board from './Board';
 function App() {
   return (
     <div className="App">
-      <h1>Hello ! Minesweeper</h1>
+      <h1>Hello GCP!</h1>
       <Board />
     </div>
   );
