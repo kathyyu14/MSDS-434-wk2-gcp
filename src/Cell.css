@@ -1,0 +1,10 @@
+/* Cell.css */
+.cell {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ccc;
+  font-size: 20px;
+}
